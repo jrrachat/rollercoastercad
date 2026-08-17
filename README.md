@@ -1,0 +1,1 @@
+Snap together roller coaster CAD along with a cart so you can build all sorts of coaster. Hoping on adding some launches and pulleys later on as well. Will get all the designs on github as soon as they are done.
