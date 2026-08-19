@@ -2,4 +2,4 @@ Snap together roller coaster CAD along with a cart so you can build all sorts of
 
 Roller coaster cart is an altered version of this design made by lex2 on Thingiverse: [www.thingiverse.com/thing:5646378](thingiverse.com/thing:5646378)
 
-To print the cart you need: 16 wheels, 1 crossbar, 4 cart cages, and 2 connector bars. I recommend printing a few extra wheels as they can wear out fairly quickly.
+To print the cart you need: 16 wheels, 1 crossbar, 4 cart cages, and 2 connector bars. I recommend printing a few extra wheels as they can wear out fairly quickly. For the axles I used staple clips, and I used hot glue to attach them to the chassis. The screw size listed on the thingiverse page works as well along with paperclips.
